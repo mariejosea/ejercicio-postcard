@@ -61,7 +61,7 @@ h1 {
     text-align: center;
 }
 .postcard-footer input[type=submit] { 
-    height: 10%; 
+    height: 30px; 
     border: none; 
     border-bottom: 1px solid darkgrey; 
     font-family: 'Staatliches', cursive;
